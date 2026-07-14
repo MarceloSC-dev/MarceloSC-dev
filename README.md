@@ -1,14 +1,10 @@
-<h1 align="left">João Marcelo Costa</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:58A6FF&height=180&section=header&text=João%20Marcelo%20Costa&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Engenharia%20da%20Computação%20·%20UEFS&descAlignY=58&descSize=18" />
 
 <p align="left">
-Engenheiro de Computação (UEFS) · Lógica computacional & algoritmos · Feira de Santana, BA
+Lógica computacional & algoritmos · Feira de Santana, BA
 </p>
 
-<a href="https://github.com/MarceloSC-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o;Constru%C3%ADdo+em+FPGA%2C+Assembly+e+C;Estudando+Linux+para+LPIC-1" alt="Typing SVG" />
-</a>
-
-<br><br>
+<br>
 
 Estudante de Engenharia da Computação, no meio da graduação e já com projetos práticos entregues — de sistemas em FPGA a drivers de baixo nível em Assembly. Gosto de entender como as coisas funcionam de verdade, por isso circulo entre lógica, algoritmos, hardware e infraestrutura em vez de me fechar em uma única camada.
 
@@ -47,8 +43,6 @@ Driver em Assembly para comunicação MMIO entre o processador (HPS) e a FPGA, r
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceloSC-dev&hide_border=true" />
 
-<br>
+<br><br>
 
-## 🏆 Troféus
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarceloSC-dev&theme=flat&no-frame=true&row=1&column=6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F2937&height=100&section=footer" />
