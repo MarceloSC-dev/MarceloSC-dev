@@ -14,7 +14,7 @@ sobre:
   foco: ["lógica computacional", "estruturas de dados & algoritmos", "infraestrutura"]
   certificações_em_andamento: ["LPIC-1"]
   próxima_meta: "AWS Cloud Practitioner"
-```
+
 
 <br>
 
