@@ -15,10 +15,10 @@ Hoje o foco é consolidar essa base: aprofundando Linux (rumo à certificação 
 ## 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,java,linux,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=c,py,java,linux,git" />
 </p>
 
-**Em andamento:** Certificação LPIC-1 &nbsp;·&nbsp; **Próxima meta:** AWS Cloud Practitioner
+**Em andamento:** Aprofundando em Linux&nbsp;·&nbsp; **Próxima meta:** Java(POO)
 
 <br>
 
