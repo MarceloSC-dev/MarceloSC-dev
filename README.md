@@ -4,7 +4,7 @@
 Engenheiro de Computação (UEFS) · Lógica computacional & algoritmos · Feira de Santana, BA
 </p>
 
-​`yaml
+​yaml
 sobre:
   formação: "Engenharia da Computação — UEFS"
   foco: ["lógica computacional", "estruturas de dados & algoritmos", "infraestrutura"]
@@ -21,7 +21,7 @@ sobre:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 <br>
 
