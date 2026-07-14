@@ -1,16 +1,20 @@
-<h1 align="left">Marcelo</h1>
+<h1 align="left">João Marcelo Costa</h1>
 
 <p align="left">
 Engenheiro de Computação (UEFS) · Lógica computacional & algoritmos · Feira de Santana, BA
 </p>
 
-​yaml
+Estudante de Engenharia da Computação, no meio da graduação e já com projetos práticos entregues — de sistemas em FPGA a drivers de baixo nível em Assembly. Gosto de entender como as coisas funcionam de verdade, por isso circulo entre lógica, algoritmos, hardware e infraestrutura em vez de me fechar em uma única camada.
+
+Hoje o foco é consolidar essa base: aprofundando Linux (rumo à certificação LPIC-1), fortalecendo fluência em Git/GitHub e organizando os projetos da graduação em um portfólio que reflita o que já foi construído. Também estou por trás de conteúdo educacional sobre lógica proposicional para estudantes do ensino médio — ensinar é uma forma de testar o quanto eu mesmo entendo o assunto.
+
+```yaml
 sobre:
   formação: "Engenharia da Computação — UEFS"
   foco: ["lógica computacional", "estruturas de dados & algoritmos", "infraestrutura"]
   certificações_em_andamento: ["LPIC-1"]
   próxima_meta: "AWS Cloud Practitioner"
-
+```
 
 <br>
 
@@ -21,7 +25,7 @@ sobre:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br>
 
