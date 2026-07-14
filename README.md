@@ -8,7 +8,7 @@ Estudante de Engenharia da Computação, no meio da graduação e já com projet
 
 Hoje o foco é consolidar essa base: aprofundando Linux (rumo à certificação LPIC-1), fortalecendo fluência em Git/GitHub e organizando os projetos da graduação em um portfólio que reflita o que já foi construído. Também estou por trás de conteúdo educacional sobre lógica proposicional para estudantes do ensino médio — ensinar é uma forma de testar o quanto eu mesmo entendo o assunto.
 
-```yaml
+yaml
 sobre:
   formação: "Engenharia da Computação — UEFS"
   foco: ["lógica computacional", "estruturas de dados & algoritmos", "infraestrutura"]
